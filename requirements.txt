@@ -1,0 +1,8 @@
+Django
+Pillow
+psycopg2-binary
+python-decouple
+djangorestframework
+dj-rest-auth
+drf-yasg
+django-filter
